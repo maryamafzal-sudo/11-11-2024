@@ -1,0 +1,35 @@
+html{
+    background-color: rgb(222, 184, 140);
+}
+
+
+h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 209;
+    font-style: italic;
+    color: rgb(50, 53, 24);
+    text-align: center;
+    text-transform: capitalize;
+    text-size-adjust: 3rem;
+    
+  }
+  
+  p{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 500;
+    font-style: italic;
+    color: rgb(50, 53, 24);
+    text-align: center;
+  }
+  img{
+   
+    width: 100%;
+  }
+  #me{
+    box-shadow: 10px black;
+    width: 50%;
+    margin-left: 25%;
+    box-shadow: 5px 8px 20px 4px rgba(0,0,0,0.5);
+    background-color: rgb(238, 216, 130);
+  }
+  
